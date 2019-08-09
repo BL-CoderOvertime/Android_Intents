@@ -95,3 +95,5 @@ This will encompass many of the skills you have developed over the Intro to Andr
 	  
 ### Submit
 Send your completed app to your Project Manager.
+
+Initial commit
